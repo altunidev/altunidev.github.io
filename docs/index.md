@@ -2,9 +2,9 @@
 
 ## Explore Builds
 
-[Honey Smooth](Personal%20Builds/Honey%20Smooth/)
+[Honey Smooth](Builds/Personal%20Builds/Honey%20Smooth/)
 
-[Hazard! High Performance](Personal%20Builds/Hazard%20High%20Performance/)
+[Hazard! High Performance](Builds/Personal%20Builds/Hazard%20High%20Performance/)
 
 ## More Information
 

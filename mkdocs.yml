@@ -1,5 +1,8 @@
-site_name: Tuni Builds
 site_url: https://builds.altuni.dev/keyboards
+site_name: Tuni Builds
+title: Tuni Builds
+summary: A digital portfolio of previous keyboard and electronics build projects.
+
 
 #nav:
 #  - Home: index.md
@@ -40,9 +43,21 @@ theme:
       primary: black
       accent: amber
   
-  #features:
-  #  - navigation.footer
-  #  - header.autohide
+  # Navigation Features
+  # https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/
+  features:
+    - navigation.instant
+    - navigation.indexes
+    - navigation.top
+    - navigation.tabs
+    # - navigation.tabs.sticky
+    # - navigation.footer
+    # - header.autohide
+    # - navigation.path
+    # - navigation.prune      # good for performance if there are a lot of documentation pages
+    - toc.follow
+    - toc.integrate         # integrates the toc into the left nav bar
+
 
 extra:
   generator: false
@@ -50,3 +65,10 @@ extra:
   # - icon: fontawesome/brands/twitter
   #   link: https://twitter.com
   #   name: Tuni on Twitter
+
+# Content Tabbing: https://squidfunk.github.io/mkdocs-material/reference/content-tabs/
+markdown_extensions:
+  - footnotes
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
