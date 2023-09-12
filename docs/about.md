@@ -8,7 +8,7 @@ Ah, I see you found your way to the About Page! Well, since you're here, allow m
 
 Hey! My online alias is Salty. How's it going?
 
-I define myself as a technologist, artist, gaming enthusiast, and all around general nerd. Generally speaking, I don't go with labels and would rather let my stories to define me instead.
+I see myself as a technologist, artist, gaming enthusiast, and all around general nerd. Generally speaking, I don't go with conventional societal labels and would rather let my thoughts and stories to define me instead.
 
 ### Why did you make this website?
 
