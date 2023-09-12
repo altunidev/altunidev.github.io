@@ -19,7 +19,7 @@ List of pages to build:
         - [ ] LucidVR build
         - [ ] SlimeVR build
     - Completed Projects
-        - [ ] 
+        - [ ] .
 - Keyboard Builds
     - [x] Honey Smooth (personal 65% build)
     - [ ] Hazard: High Performance (personal 75% gaming build)
