@@ -1,4 +1,4 @@
-# Tuni Builds Public Website
+# AltUniDev Public Website
 
 This repository stores documentation and configuration files to run my public-facing website through Github Pages. Branches are organized as such:
 
