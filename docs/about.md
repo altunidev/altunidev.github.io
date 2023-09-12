@@ -46,7 +46,7 @@ I (Salty) and this website (AltUniDev) do not intentionally collect any personal
 
 ### Communications
 
-If you voluntarily communicate with me over various online platforms or services (i.e. email, instant message, etc.), I may retain this information on file. This works in the same way that, should I communicate to you, you have direct access to the information I send in your file.
+If you voluntarily communicate with me over various online platforms or services (i.e. email, instant message, etc.), I may retain this information on file. This works in the same way that, should I communicate to you (via, say, email), you have direct access to the information I send in your file.
 
 ### Services used
 

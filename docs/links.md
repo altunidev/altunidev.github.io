@@ -6,15 +6,17 @@
 
 # Get in touch!
 
-[:fontawesome-solid-paper-plane: Hello@altuni.dev](mailto:hello@altuni.dev)
+[:fontawesome-solid-paper-plane: Hello@altuni.dev](mailto:hello@altuni.dev) ❌
 
 ## All my links
 
 Find me on other platforms and services!
 
+[:simple-patreon: Patreon](https://patreon.com/altunidev) 🚧
+
 [:simple-github: Github](https://github.com/altunidev)
 
-[:simple-discord: Discord](#) 🚧
+[:simple-discord: Discord](#) ❌
 
 [:simple-youtube: YouTube](https://www.youtube.com/channel/UCJMK__7Mv8iSKGurKCWL9yA) 🚧
 
@@ -25,4 +27,5 @@ Find me on other platforms and services!
 ## :fontawesome-solid-keyboard: Keyboard Commissions
 
 Interested in commissioning a custom keyboard project? Feel free to reach out via email here:    
-[:fontawesome-solid-paper-plane: Commissions@altuni.dev](mailto:commissions@altuni.dev)
+
+[:fontawesome-solid-paper-plane: Commissions@altuni.dev](mailto:commissions@altuni.dev) ❌
