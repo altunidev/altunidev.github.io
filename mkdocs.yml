@@ -16,9 +16,13 @@ summary: A digital portfolio of my various endeavours and hobbies.
 
 # ---
 
-#nav:
-#  - Home: index.md
-#  - About: about.md
+# nav:
+#   - Home: index.md
+#   - About: about.md
+#   - Socials: links.md
+#   - Custom Electronics: builds/projects/completed-intro.md
+#   - Learning Electronics: builds/learnings/learning-intro.md
+#   - Keyboard Builds: builds/keyboards/keyboard-builds-intro.md
 
 # ---
 

@@ -2,7 +2,7 @@
 
 <h2> 👋 Hi there! </h2>
 
-I'm Salty. I've built and run AltUniDev as a name to an umbrella amalgamation for many various projects, hobbies, and whatever else I'm interested in. On this website, you can expect blog posts, electronics experiments, keyboard builds, and other bits and bobs.
+I'm Salty. I run AltUniDev as a name to an umbrella amalgamation for many various projects, hobbies, and whatever else I'm interested in. On this website, you can expect blog posts, electronics experiments, keyboard builds, and other bits and bobs.
 
 🚧 At this current moment in time, this website is still *under development*, so please don't mind the dust. 🚧
 
