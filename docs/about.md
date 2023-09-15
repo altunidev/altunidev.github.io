@@ -42,6 +42,8 @@ Otherwise, all content on this website has been written specifically for use her
 
 ## Privacy Policy
 
+> *Last updated 2023-09-15*
+
 ### The long and short of it
 
 I (Salty) and this website (AltUniDev) do not intentionally collect any personally-identifiable information from this website (altuni.dev).
