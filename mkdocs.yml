@@ -1,9 +1,30 @@
-site_name: Tuni Builds
-site_url: https://builds.altuni.dev/keyboards
+# References:
+# 
+# Themeing
+# - https://squidfunk.github.io/mkdocs-material/customization/
+# - https://jimandreas.github.io/mkdocs-material/customization/
+# - https://danny-dasilva.github.io/mkdocs-material/customization/
+# - https://github.com/squidfunk/mkdocs-material/issues/1732
+# - https://github.com/squidfunk/mkdocs-material/blob/master/src/assets/stylesheets/main/_colors.scss
 
-#nav:
-#  - Home: index.md
-#  - About: about.md
+# ---
+
+site_url: https://altuni.dev/
+site_name: AltUniDev
+title: AltUniDev
+summary: A digital portfolio of my various endeavours and hobbies.
+
+# ---
+
+# nav:
+#   - Home: index.md
+#   - About: about.md
+#   - Socials: links.md
+#   - Custom Electronics: builds/projects/completed-intro.md
+#   - Learning Electronics: builds/learnings/learning-intro.md
+#   - Keyboard Builds: builds/keyboards/keyboard-builds-intro.md
+
+# ---
 
 theme:
   name: material
@@ -12,26 +33,25 @@ theme:
   font:
     text: Noto Sans
     code: Fira Code
+  
+  # shortcuts:
+  #  help: 191    # ?
+  #  next: 78     # n
+  #  previous: 80 # p
+  #  search: 83   # s
+  
   palette:
+    # scheme: my-custom
 
-    # Palette toggle for automatic mode
-    - media: "(prefers-color-scheme)"
-      toggle:
-        icon: material/brightness-auto
-        name: Switch to light mode
-      primary: black
-      accent: amber
+    # Palette toggle for automatic mode -- available only for insider sponsors of Material for MkDocs
+    # - media: "(prefers-color-scheme)"
+    #  toggle:
+    #    icon: material/brightness-auto
+    #    name: Switch to light mode
+    #  primary: black
+    #  accent: amber
 
-    # Palette toggle for light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default 
-      toggle:
-        icon: material/brightness-7
-        name: Switch to dark mode
-      primary: black
-      accent: amber
-
-    # Palette toggle for dark mode
+    # Palette toggle for dark mode -- Set Dark Mode above Light Mode as a default to dark.
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       toggle:
@@ -39,14 +59,61 @@ theme:
         name: Switch to system preference
       primary: black
       accent: amber
-  
-  #features:
-  #  - navigation.footer
-  #  - header.autohide
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: custom
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+      primary: black
+      accent: amber
+
+  # Navigation Features
+  # https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/
+  features:
+    - navigation.instant
+    - navigation.indexes
+    - navigation.top
+    - navigation.tabs
+    # - navigation.tabs.sticky
+    # - navigation.footer
+    # - header.autohide
+    # - navigation.path
+    # - navigation.prune      # good for performance if there are a lot of documentation pages
+    - toc.follow
+    - toc.integrate         # integrates the toc into the left nav bar
+
+# ---
 
 extra:
   generator: false
-  #social:
+  social:
+  - icon: fontawesome/brands/github
+    link: https://github.com/altunidev/altunidev.github.io
+    name: Website Source Code
   # - icon: fontawesome/brands/twitter
-  #   link: https://twitter.com
-  #   name: Tuni on Twitter
+  #   link: https://twitter.com/altunidev
+  #   name: Salty on Twitter
+
+extra_css:
+  - stylesheets/extra.css
+extra_javascript:
+  - javascripts/extra.js
+
+# ---
+
+# Content Tabbing:  https://squidfunk.github.io/mkdocs-material/reference/content-tabs/
+# Admonitions:      https://squidfunk.github.io/mkdocs-material/reference/admonitions/?h=call+out
+
+markdown_extensions:
+  - footnotes
+  - attr_list
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.tabbed:
+      alternate_style: true
