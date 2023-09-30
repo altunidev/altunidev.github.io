@@ -8,7 +8,7 @@ I'm Salty. I run AltUniDev as a name to an umbrella amalgamation for many variou
 
 In the meantime while things are being built out, feel free to help yourself to some cookies and tea, I'm sure the expiration label is just a suggestion. The couch is over here and the fridge is over there. Make yourself at home!
 
-### [Blog](Blog/)
+### [Blog](blog/intro.md)
 
 In this section, you can find some of my many various ramblings on whatever topic I feel like talking about.
 
