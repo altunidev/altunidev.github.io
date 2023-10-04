@@ -12,19 +12,27 @@ In the meantime while things are being built out, feel free to help yourself to 
 
 In this section, you can find some of my many various ramblings on whatever topic I feel like talking about.
 
-### [Custom Electronics Projects](builds/projects/completed-intro.md)
+### Electronics
 
-I tend to tinker with various things here and there. In this section are some of the projects that I consider to be "working", "successful", or otherwise have something to report on with a state of being "finished".
+Amongst my various hobbies and such, I tinker with electronics and such. Below are some sections to help categorize my adventures in these topics!
 
-### [Learning Electronics](builds/learnings/learning-intro.md)
+#### [Custom Electronics Projects](builds/projects/electronics-intro.md)
+
+I tend to tinker with various things here and there. In this section are some projects that I'm approaching with a bit more of a serious mentality than "throw things together and hope things work".
+
+#### [Learning Electronics](builds/learnings/learning-intro.md)
 
 This section is more-so used as an overflow for things that may not have worked so well in the above section -- electronics projects that were used simply for learning, developing an idea, or perhaps something failed along the way and the cost of continuing was a little too high for the scope of the project. While reporting failures may seem like a negative, I believe that it's through mistakes that we learn and develop to have a stronger skill set. Plus, some outcomes of failed projects might make for really funny moments, so hey, let's embrace some chaos here!
 
-### [Keyboard Builds](builds/keyboards/keyboard-builds-intro.md)
+#### [Keyboard Builds](builds/keyboards/keyboard-builds-intro.md)
 
 Back in college, I used to build quite a few keyboards. These were mostly just for my own enjoyment as I found the design and building process of keyboards to be very fascinating both from a technical and artistic perspective. Plus, custom mechanical keyboards (while more expensive than conventional membrane keyboards) are relatively cheap, quick, and easy to purchase a kit, design, build, and complete. Some quick satisfying projects overall, and commissions are always great ways to help more people get their hands on high quality contraptions.
 
-### More Information
+
+
+---
+
+## More Information
 
 - [About Page](about.md)
 - [Find me elsewhere!](links.md)
