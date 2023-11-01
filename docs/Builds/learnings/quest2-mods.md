@@ -1,3 +1,5 @@
+# Quest 2 Mods
+
 # 2023-10-26
 
 I bought a used Quest 2 (HMD only, excludes strap, facial interface, controllers, etc.). Found a great deal on eBay for $38 -- total turned out to be less than $45 all told. If it works, that'll be an amazing price to get something for hardware development and learning.
@@ -10,4 +12,4 @@ Oh yeah, and also having a wireless VR headset could help with certain activitie
 
 # 2023-10-29
 
-Quest 2 arrived.
+Quest 2 arrived
