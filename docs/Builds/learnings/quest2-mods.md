@@ -8,6 +8,6 @@ Additionally, being able to talk with others in the community and teach people a
 
 Oh yeah, and also having a wireless VR headset could help with certain activities in VR such as dance, acrobatics, and more!
 
-# 2023-10-30
+# 2023-10-29
 
 Quest 2 arrived.
