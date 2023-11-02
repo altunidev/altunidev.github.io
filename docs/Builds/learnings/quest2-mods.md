@@ -12,4 +12,5 @@ Oh yeah, and also having a wireless VR headset could help with certain activitie
 
 # 2023-10-29
 
-Quest 2 arrived
+Quest 2 arrived. (further writing in progress)
+

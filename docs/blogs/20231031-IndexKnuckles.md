@@ -2,7 +2,7 @@
 
 > "The best we've got, but not good enough."
 
-*Drafted 2023-10-31 | Posted 2023-11-*
+*Drafted 2023-10-31 | Posted 2023-11-01 | Last edited 2023-11-01*
 
 ## Background and Context
 
