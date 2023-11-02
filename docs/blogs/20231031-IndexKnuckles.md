@@ -14,7 +14,7 @@ For context, I was coming from an Oculus Rift S before the HP Reverb G2. The con
 - The build quality of the plastics felt very flimsy, cheap, and rattley (for the lack of a better word).
 - It felt significantly heavier than Rift S controllers.
 - The area in which the controllers were trackable was less than my field of view.
-    - In other words, if I put my hand in a certain area of my view, the controller would stop being tracked due to the cameras losing consistent sight of the tracking ring and light constellation being emitted.
+    > In other words, if I put my hand in a certain area of my view, the controller would stop being tracked due to the cameras losing consistent sight of the tracking ring and light constellation being emitted.
 - As a VRChat player, the lack of capacitive buttons and thumbsticks made expressions very difficult to consistently control
 
 Essentially, from the time I first got my G2 and full body tracking, I decided this wasn't nearly enough. I wanted something else. Obviously no other controllers would really work with my current setup unless I went with light house tracked controllers... so I decided to go with the best out there for PCVR: Valve Index Controllers (Knuckles).
@@ -38,7 +38,7 @@ Valve Knuckles were a very specific topic that has been, and (as of writing) con
 - Quality Assurance (QA)
     - Overall, the Knuckles are fine. However, there have been some who've expressed much disappointment in ensuring the product worked out of the box without RMA.
 - Long Term Reliability
-    - "Stick Drift" being one of the biggest complaints I've seen overall. At the time of the Index release (2019), hall effect joysticks haven't yet been wide-spread and easily attainable through a supply chain. Since its first release, the Knuckles haven't seemed to change significantly, if at all, and so the sticks continue to use potentiometer-based angle sensing
+    - "Stick Drift" being one of the biggest complaints I've seen overall. At the time of the Index release (2019), hall effect joysticks hadn't yet been wide-spread and easily attainable through a supply chain. Since its first release, the Knuckles haven't seemed to change significantly, if at all, and so the sticks continue to use potentiometer-based angle sensing
 - Durability
     - Essentially, the idea of "if I hit something because I have a screen on my face, I should expect that the thing in my hand shouldn't break instantly". Fortunately, I personally never had any experience of this sort of thing happening to me, but I could definitely see a few points in the construction where a non-trivial amount of mechanical stress may affect the structural integrity and cause a few things to snap.
 - Size
@@ -64,4 +64,4 @@ I would argue that the potential for VR controller technology improvements is ma
 
 In other words, it was through our collective dissatisfaction that I began to develop a few ideas for a product that, to begin with, may be an open source and open hardware design. However, I've also heard quite a bit of dissatisfaction with DIY options as these all felt "cheap", or support would be very much a "Oh this broke, hot glue it back together!" rather than having a refined, well-produced item in hand. From these sorts of comments and feedback, I currently have a personal goal of selling these such controllers as products for end-users to purchase at some point in the future. The sooner, the better, but I am but one person in a vast world of opportunity.
 
-That all being said, I do hope that through my projects and goals like these, I can help others be more immersed and, perhaps, enjoy their virtual experinces just a little more -- either together or in their own worlds, however they would like to use this technology!
+That all being said, I do hope that through my projects and goals like these, I can help others be more immersed and, perhaps, enjoy their virtual experiences just a little more -- either together or in their own worlds, however they would like to use this technology!
