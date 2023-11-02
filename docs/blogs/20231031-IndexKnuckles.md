@@ -13,8 +13,7 @@ For context, I was coming from an Oculus Rift S before the HP Reverb G2. The con
 - The overall battery life, despite having twice the amount of AA batteries in the enclosure, was significantly worse than that of the Rift S.
 - The build quality of the plastics felt very flimsy, cheap, and rattley (for the lack of a better word).
 - It felt significantly heavier than Rift S controllers.
-- The area in which the controllers were trackable was less than my field of view.
-    > In other words, if I put my hand in a certain area of my view, the controller would stop being tracked due to the cameras losing consistent sight of the tracking ring and light constellation being emitted.
+- The area in which the controllers were trackable was less than my field of view. (In other words, if I put my hand in a certain area of my view, the controller would stop being tracked due to the cameras losing consistent sight of the tracking ring and light constellation being emitted.)
 - As a VRChat player, the lack of capacitive buttons and thumbsticks made expressions very difficult to consistently control
 
 Essentially, from the time I first got my G2 and full body tracking, I decided this wasn't nearly enough. I wanted something else. Obviously no other controllers would really work with my current setup unless I went with light house tracked controllers... so I decided to go with the best out there for PCVR: Valve Index Controllers (Knuckles).
