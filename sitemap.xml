@@ -2,62 +2,117 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://altuni.dev/</loc>
-         <lastmod>2023-09-15</lastmod>
+         <lastmod>2023-11-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://altuni.dev/about/</loc>
-         <lastmod>2023-09-15</lastmod>
+         <lastmod>2023-11-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://altuni.dev/links/</loc>
-         <lastmod>2023-09-15</lastmod>
+         <lastmod>2023-11-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://altuni.dev/blogs/20231031-IndexKnuckles/</loc>
+         <lastmod>2023-11-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://altuni.dev/blogs/intro/</loc>
+         <lastmod>2023-11-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://altuni.dev/builds/builds-intro/</loc>
-         <lastmod>2023-09-15</lastmod>
+         <lastmod>2023-11-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://altuni.dev/builds/keyboards/keyboard-builds-intro/</loc>
-         <lastmod>2023-09-15</lastmod>
+         <lastmod>2023-11-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://altuni.dev/builds/keyboards/commissions/Commission%20Board%20%28Pixelspace%20Endless80%29/</loc>
-         <lastmod>2023-09-15</lastmod>
+         <loc>https://altuni.dev/builds/keyboards/commissions/carbon/</loc>
+         <lastmod>2023-11-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://altuni.dev/builds/keyboards/commissions/Panda/</loc>
-         <lastmod>2023-09-15</lastmod>
+         <loc>https://altuni.dev/builds/keyboards/commissions/panda/</loc>
+         <lastmod>2023-11-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://altuni.dev/builds/keyboards/commissions/Stealth%20Typing%20%28KBD67%20Lite%20R4%20Wireless%29%20-%20Commission/</loc>
-         <lastmod>2023-09-15</lastmod>
+         <loc>https://altuni.dev/builds/keyboards/commissions/stealth/</loc>
+         <lastmod>2023-11-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://altuni.dev/builds/keyboards/personal/Butterfly-Wings/</loc>
-         <lastmod>2023-09-15</lastmod>
+         <loc>https://altuni.dev/builds/keyboards/personal/butterfly-wings/</loc>
+         <lastmod>2023-11-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://altuni.dev/builds/keyboards/personal/Hazards/</loc>
-         <lastmod>2023-09-15</lastmod>
+         <loc>https://altuni.dev/builds/keyboards/personal/hazards/</loc>
+         <lastmod>2023-11-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://altuni.dev/builds/keyboards/personal/Honey-Smooth/</loc>
-         <lastmod>2023-09-15</lastmod>
+         <loc>https://altuni.dev/builds/keyboards/personal/honey-smooth/</loc>
+         <lastmod>2023-11-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://altuni.dev/builds/keyboards/personal/lil-numpad/</loc>
+         <lastmod>2023-11-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://altuni.dev/builds/learnings/learning-intro/</loc>
-         <lastmod>2023-09-15</lastmod>
+         <lastmod>2023-11-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://altuni.dev/builds/learnings/led-ceiling/</loc>
+         <lastmod>2023-11-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://altuni.dev/builds/learnings/lucidvr-attempt/</loc>
+         <lastmod>2023-11-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://altuni.dev/builds/learnings/quest2-mods/</loc>
+         <lastmod>2023-11-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://altuni.dev/builds/projects/electronics-intro/</loc>
+         <lastmod>2023-11-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://altuni.dev/builds/projects/vr-glove/</loc>
+         <lastmod>2023-11-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://altuni.dev/builds/projects/steamvr-controller/steamvr-controller/</loc>
+         <lastmod>2023-11-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://altuni.dev/builds/projects/steamvr-controller/devlogs/20231013-RnD-Costs/</loc>
+         <lastmod>2023-11-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://altuni.dev/builds/projects/steamvr-controller/devlogs/_intro/</loc>
+         <lastmod>2023-11-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
